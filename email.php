@@ -1,0 +1,3 @@
+<?php
+$emailku = 'ISI EMAIL KALIAN DISINI'; // GANTI EMAIL KAMU DISINI
+?>
